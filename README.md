@@ -1,2 +1,4 @@
 # hello-world
-ljgljgglljgljlgougo ... Why are you even reading this? It's just a test.
+
+Hi! my name is Dzu.
+Nice to meet you.
